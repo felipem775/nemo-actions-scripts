@@ -1,2 +1,2 @@
 # nemo-actions-scripts
-actions and scripts for nemo
+Copy to ~/.local/share/nemo
